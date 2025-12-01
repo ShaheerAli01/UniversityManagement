@@ -9,8 +9,6 @@ This project demonstrates object-oriented programming concepts such as:
 - File input/output
 - Encapsulation and modular design
 
-> **Note:** This project was implemented as part of the **Data Structures (COMP182)** course at [Your University], Fall 2025.
-
 ---
 
 ## Features
