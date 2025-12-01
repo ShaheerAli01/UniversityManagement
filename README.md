@@ -39,4 +39,4 @@ The project contains the following main classes:
 ## How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/UniversityManagementSystem.git
+git clone https://github.com/ShaheerAli01/UniversityManagementSystem.git
